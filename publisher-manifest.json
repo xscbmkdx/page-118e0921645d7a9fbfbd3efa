@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "2ccfbf54f98b4b2130ead096",
+  "owner": "xscbmkdx",
+  "repo": "page-118e0921645d7a9fbfbd3efa",
+  "title": "想飞云(FeelFree)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "118e0921645d7a9fbfbd3efa",
+      "a": "想飞云(FeelFree)",
+      "b": "",
+      "entity": "想飞云(FeelFree)",
+      "brand": "想飞云(FeelFree)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "eb81e95f5d854d64748d7dd5f562b0b3266cf82ed2e29af68a994af721e1112f",
+      "content": {
+        "keyword1": "想飞云(FeelFree)",
+        "keyword2": "",
+        "primary_entity": "想飞云(FeelFree)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "想飞云(FeelFree)提供稳定可靠的网络传输与连接服务。通过多路线路选择与清晰透明的套餐方案，满足不同场景下的数据交互与访问需求。",
+          "AI_DESCRIPTION": "想飞云(FeelFree)提供稳定可靠的网络传输与连接服务。通过多路线路选择与清晰透明的套餐方案，满足不同场景下的数据交互与访问需求。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #fcfbf9;--text-color: #2c2927;--accent-color: #a83232;--accent-light: #f5ebeb;--border-color: #d1c7bc;--card-bg: #ffffff;--font-main: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif}\n\n* {box-sizing: border-box;margin: 0;padding: 0}\n\nbody {background-color: var(--bg-color);color: var(--text-color);font-family: var(--font-main);line-height: 1.6;padding: 2rem 1rem}\n\nmain {max-width: 900px;margin: 0 auto}\n\n/* 模块通用样式 */\nsection {margin-bottom: 4rem}\n\nh2 {font-size: 1.75rem;font-weight: 700;margin-bottom: 1.5rem;letter-spacing: -0.02em;color: var(--text-color);border-bottom: 2px solid var(--accent-color);padding-bottom: 0.5rem;display: inline-block}\n\nh3 {font-size: 1.25rem;font-weight: 600;margin-bottom: 0.75rem}\n\np, li {font-size: 1rem;color: #4a4542}\n\nul {list-style: none}\n\n/* 序号卡片 / 虚线框票据风格 */\n.ticket-card {border: 2px dashed var(--border-color);background: var(--card-bg);padding: 2rem;margin-bottom: 1.5rem;position: relative;transition: border-color 0.2s ease}\n\n.ticket-card:hover {border-color: var(--accent-color)}\n\n.ticket-card.featured {border-style: solid;border-width: 2px;border-color: var(--accent-color);background-color: var(--accent-light)}\n\n/* Hero 首屏：超大字号品牌名铺满首屏的海报式 */\n.hero-section {min-height: 70vh;display: flex;flex-direction: column;justify-content: center;border-bottom: 4px solid var(--text-color);padding-bottom: 3rem;margin-bottom: 4rem}\n\n.hero-subtitle {font-size: 1.1rem;text-transform: uppercase;letter-spacing: 0.2em;color: var(--accent-color);margin-bottom: 1rem;font-weight: 700}\n\nh1 {font-size: clamp(3rem, 10vw, 6.5rem);font-weight: 900;line-height: 1.05;letter-spacing: -0.03em;margin-bottom: 1.5rem;color: var(--text-color)}\n\n.hero-desc {font-size: 1.25rem;max-width: 600px;margin-bottom: 2rem}\n\n.hero-nav-links {display: flex;gap: 1.5rem;flex-wrap: wrap}\n\n.hero-nav-links a {color: var(--text-color);text-decoration: none;font-weight: 600;border-bottom: 1px solid var(--text-color);padding-bottom: 2px}\n\n.hero-nav-links a:hover {color: var(--accent-color);border-color: var(--accent-color)}\n\n/* 纵向列表逐行展开的套餐展示 */\n.plans-list {display: flex;flex-direction: column;gap: 1.5rem}\n\n.plan-item {border: 2px dashed var(--border-color);padding: 1.5rem 2rem;background: var(--card-bg)}\n\n.plan-header {display: flex;justify-content: space-between;align-items: baseline;margin-bottom: 1rem;flex-wrap: wrap;gap: 1rem}\n\n.plan-name {font-size: 1.5rem;font-weight: 700}\n\n.plan-pricing {text-align: right}\n\n.plan-price {font-size: 1.5rem;font-weight: 700;color: var(--accent-color)}\n\n.plan-annual {font-size: 0.85rem;color: #7a726d}\n\n.plan-features {margin-top: 1rem;padding-top: 1rem;border-top: 1px solid var(--border-color)}\n\n.plan-features li {position: relative;padding-left: 1.5rem;margin-bottom: 0.5rem}\n\n.plan-features li::before {content: \"—\";position: absolute;left: 0;color: var(--accent-color)}\n\n/* 编号列表 FAQ */\n.faq-list {display: flex;flex-direction: column;gap: 1.5rem}\n\n.faq-item {border: 2px dashed var(--border-color);padding: 1.5rem;background: var(--card-bg)}\n\n.faq-number {font-size: 0.85rem;font-weight: 700;color: var(--accent-color);letter-spacing: 0.1em;margin-bottom: 0.5rem;text-transform: uppercase}\n\n.faq-question {font-size: 1.15rem;font-weight: 700;margin-bottom: 0.5rem}\n\n.faq-answer {color: #5a534f}\n\n/* 使用说明清单 */\n.guide-grid {display: grid;grid-template-columns: 1fr;gap: 1.5rem}\n\n@media(min-width: 600px) {\n  .guide-grid {grid-template-columns: repeat(2, 1fr)}\n}\n\n.guide-card {border: 2px dashed var(--border-color);padding: 1.5rem;background: var(--card-bg)}\n\n.guide-step {font-size: 2rem;font-weight: 900;color: var(--border-color);margin-bottom: 0.5rem}\n\nfooter {margin-top: 5rem;padding-top: 2rem;border-top: 1px solid var(--border-color);text-align: center;font-size: 0.85rem;color: #7a726d}\n</style><main>\n  \n  <section class=\"hero-section\">\n    <div class=\"hero-subtitle\">FeelFree Service Architecture</div>\n    <h1>想飞云(FeelFree)</h1>\n    <p class=\"hero-desc\">提供面向现代数字工作流的高效、稳定网络传输与连接服务。依托严谨的节点架构与透明的流量配置，保障多终端场景下的流畅交互体验。</p>\n    <div class=\"hero-nav-links\">\n      <a href=\"#plans\">查看套餐方案</a>\n      <a href=\"#guide\">使用说明</a>\n      <a href=\"#faq\">常见问题</a>\n    </div>\n  </section>\n\n  \n  <section id=\"plans\">\n    <h2>服务套餐配置</h2>\n    <div class=\"plans-list\">\n      <div class=\"plan-item\">\n        <div class=\"plan-header\">\n          <div>\n            <div class=\"plan-name\">基础版</div>\n            <p>适合日常基础浏览与轻量数据交互</p>\n          </div>\n          <div class=\"plan-pricing\">\n            <div class=\"plan-price\">¥15/月</div>\n            <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n          </div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </div>\n\n      <div class=\"plan-item\">\n        <div class=\"plan-header\">\n          <div>\n            <div class=\"plan-name\">旗舰版 <span>推荐</span></div>\n            <p>面向高强度吞吐与多设备协作需求</p>\n          </div>\n          <div class=\"plan-pricing\">\n            <div class=\"plan-price\">¥35/月</div>\n            <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n          </div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </div>\n\n      <div class=\"plan-item\">\n        <div class=\"plan-header\">\n          <div>\n            <div class=\"plan-name\">团队版</div>\n            <p>针对企业与多用户共享的大带宽方案</p>\n          </div>\n          <div class=\"plan-pricing\">\n            <div class=\"plan-price\">¥85/月</div>\n            <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n          </div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </div>\n    </div>\n  </section>\n\n  \n  <section id=\"guide\">\n    <h2>接入与使用说明</h2>\n    <div class=\"guide-grid\">\n      <div class=\"guide-card\">\n        <div class=\"guide-step\">01</div>\n        <h3>选择并开通服务</h3>\n        <p>根据您的实际流量消耗与设备数量需求，选取对应的套餐层级并完成配置开通流程。</p>\n      </div>\n      <div class=\"guide-card\">\n        <div class=\"guide-step\">02</div>\n        <h3>获取订阅凭证</h3>\n        <p>在用户控制面板中生成专属的接入链接或配置文件，支持主流客户端的一键导入。</p>\n      </div>\n      <div class=\"guide-card\">\n        <div class=\"guide-step\">03</div>\n        <h3>导入客户端并连接</h3>\n        <p>将订阅地址同步至您常用的客户端软件中，更新节点列表即可开始使用高品质网络服务。</p>\n      </div>\n      <div class=\"guide-card\">\n        <div class=\"guide-step\">04</div>\n        <h3>日常维护与管理</h3>\n        <p>如遇流量重置或节点调整，可在面板实时查看余量状态并获取最新网络拓扑信息。</p>\n      </div>\n    </div>\n  </section>\n\n  \n  <section id=\"faq\">\n    <h2>常见问题解答</h2>\n    <div class=\"faq-list\">\n      <div class=\"faq-item\">\n        <div class=\"faq-number\">QUESTION 01</div>\n        <div class=\"faq-question\">如何选择适合我的套餐额度？</div>\n        <div class=\"faq-answer\">如果您主要用于网页浏览与查阅资料，基础版的 100GB 流量通常已足够；若涉及大文件传输、高清流媒体或多设备共享，建议选择旗舰版或团队版以获得更充足的带宽与专线优化。</div>\n      </div>\n\n      <div class=\"faq-item\">\n        <div class=\"faq-number\">QUESTION 02</div>\n        <div class=\"faq-question\">支持哪些终端设备与客户端？</div>\n        <div class=\"faq-answer\">想飞云(FeelFree)兼容主流操作系统及各类通用客户端软件。您可以在控制面板中找到针对各平台的详细配置教程与导入指引。</div>\n      </div>\n\n      <div class=\"faq-item\">\n        <div class=\"faq-number\">QUESTION 03</div>\n        <div class=\"faq-question\">流量额度是如何计算与重置的？</div>\n        <div class=\"faq-answer\">所有套餐的流量均按自然月周期进行重置。当月未使用完的流量额度不会累积至下一个计费周期，建议根据需求合理规划。</div>\n      </div>\n\n      <div class=\"faq-item\">\n        <div class=\"faq-number\">QUESTION 04</div>\n        <div class=\"faq-question\">在连接过程中遇到延迟或断开该如何处理？</div>\n        <div class=\"faq-answer\">请首先检查您的本地网络状态与客户端订阅是否为最新。若问题依旧，可通过控制面板提交工单，技术支持团队将为您排查并提供优化建议。</div>\n      </div>\n    </div>\n  </section>\n\n  <footer>\n    <p>© 想飞云(FeelFree) All Rights Reserved. 提供稳健的数字化连接基础设施。</p>\n  </footer>\n</main>",
+          "hash": "be3265b6aa75b61618e7f485f16fa328de12e1703524baab06c6775dbb589e66",
+          "seo": {
+            "title": "想飞云(FeelFree) - 稳定可靠的网络传输与连接服务",
+            "keywords": "想飞云, FeelFree, 网络连接, 传输服务, 专线接入, 节点配置",
+            "description": "想飞云(FeelFree)提供稳定可靠的网络传输与连接服务。通过多路线路选择与清晰透明的套餐方案，满足不同场景下的数据交互与访问需求。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "1961",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "2 米白配砖红",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rrlic.cn",
+    "host": "p-184849aaa5.rrlic.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b1c66ee16f13a3b35aeed9412ed0a4aaf00b4daa4fac66f1e30e9f549b971189",
+    "sitemap.xml": "6d7ce364446ac6f30c95ed0fafafe7204e07ad81bf5db056d4c00cfe71ed56dc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bc4f891451d4878195ca7f7eb7179c3f91852331fe251c9d12dcd6312f169a4b",
+    "robots.txt": "73062f6bb9dfd799daf5ddc9805cf49f7df18249ccd1f88f5ef2ec96683f5c6a",
+    "2f5882452f7d46835c7c938d2b8f5bdc.txt": "880c6eabda48587faca927ffcf9a3b0020748cedfd8bb5ddd1700c30219f70b1"
+  },
+  "revision": "def43dbaaf9a568c094f184137065c0be0ba19306ddee4e11ad186166260dfe3"
+}
